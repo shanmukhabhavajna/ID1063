@@ -1,3 +1,5 @@
+//code by bhavajna
+//09-09-26
 #include<stdio.h>
 int main(){char str[100];
 	printf("enter a word:");
